@@ -179,5 +179,5 @@ All 6 tests **pass** against the current pipeline output. The summary cell raise
 
 ---
 
-*Built by Osarodion Ogbeborevans — data engineering project on Databricks.*
+*Built by Osarodion Ogbebor Evans — data engineering project on Databricks.*
 
